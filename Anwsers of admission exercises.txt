@@ -1,0 +1,14 @@
+Excersice 1
+
+//Answer 1: Becuase It did'nt initialized any value to the parameters. 
+//Answer 2: After initilize value we will get a return. 
+
+Exercise 2
+
+//Answer 1: The obvius error is the we did'nt assigned an id. to our attributes.  
+//Answer 2: I think at the printf statement we should type the id. of our attributes to the printf function to implement the code.
+
+Exercise 3
+
+//Answer 1: Use an array to array functtion to solve the problem.
+//Answer 2: By Using array to array or blockqoutes.
